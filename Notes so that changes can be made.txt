@@ -1,0 +1,15 @@
+Hello Emmanuel, solid work on this refactor assignment. 
+I was able to find a lot of work that still needs to be done. 
+Please see my comments down below for more information on where you can improve. 
+There are divs are present in your HTML that can become semantic elements. 
+Only some of your images have alt attributes describing the images. 
+https://www.w3schools.com/html/html5_semantic_elements.asp 
+Your heading doesn't follow a sequential order, mainly the h2 in the footer. 
+It should be an h3. Your page's title needs to be more descriptive. IE Horiseon Search Engine Management. 
+The links in your HTML do not function. https://way2tutorial.com/html/html_internal_links.php 
+Your CSS file has a few comments, but it needs more. 
+Your repository needs a more unique name: IE Horiseon Website Refactor 
+Your Git commits need to be more descriptive: IE "Refactored divs into semantic elements" 
+Remove the default readme and replace it with one of your own that includes a description of what you did, a screenshot, and a link to the deployed application. 
+Lastly, the website does not resemble the screenshot provided. The images are too large and break the website. 
+Please reach out to your instructor or TA for more information and make sure you are utilizing all the resources, office hours TA's and tutors for success in the BootCamp Best regards -Chris 
