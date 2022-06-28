@@ -59,6 +59,17 @@ p {
     background-position: center;
 }
 
+#parentDiv{
+    display: flex;
+}
+
+#content_div{
+    flex: 70%;
+}
+
+#imageview{
+    width: 30%;
+}
 .float-left {
     float: left;
     margin-right: 25px;
@@ -70,7 +81,7 @@ p {
 }
 
 .content {
-    width: 75%;
+    width: 95%;
     display: inline-block;
     margin-left: 20px;
 }
@@ -91,22 +102,22 @@ p {
     color: #ffffff;
     text-align: center;
 }
-// Got read of the redundant css styles
+/* // Got read of the redundant css styles */
 
 .h3 {
     margin-bottom: 10px;
 
 }
 
-// Got rid of h3 level redundancies
+/* // Got rid of h3 level redundancies */
 
 .img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-//  ^^^^consolidate into one class
----------------------
+  /* ^^^^consolidate into one class */
+
 
 .content {
     margin-bottom: 20px;
@@ -116,19 +127,19 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-// ^^^^consolidate into one class
-----
+/* // ^^^^consolidate into one class */
+
 
 .img {
     max-height: 200px;
 }
-// ^^^ consildated into one class
+/* // ^^^ consildated into one class */
 
 .h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-// ^^^ consildated into one class
+/* // ^^^ consildated into one class */
 .footer {
     padding: 30px;
     clear: both;
